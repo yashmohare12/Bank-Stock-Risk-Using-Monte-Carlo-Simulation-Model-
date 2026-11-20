@@ -1,6 +1,6 @@
 # Bank Stock Risk & 1-Year Outlook — HDFC Bank, ICICI Bank, SBI
 
-Risk analysis and 1-year Monte Carlo outlook of three Indian bank stocks, built in **MATLAB** on **10 years of daily Yahoo Finance data**.
+Risk analysis and 1-year Monte Carlo outlook of three Indian bank stocks, built in **MATLAB** on **10 years of daily Yahoo Finance data**
 
 | | |
 |---|---|
